@@ -1,4 +1,4 @@
-package com.javagda25.Threading;
+package com.javagda25.Threading.Zadanie;
 
 import java.util.Random;
 
